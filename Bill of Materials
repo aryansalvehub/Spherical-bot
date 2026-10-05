@@ -1,0 +1,14 @@
+| No. | Component | Qty. | Use |
+|---:|---|---:|---|
+| 1 | XIAO ESP32-C3 | 1 | Processes joystick inputs and sends control commands wirelessly |
+| 2 | Joystick Module | 2 | Controls forward/reverse and left/right movement |
+| 3 | Push Button | 4 | ARM, KILL, Precision Mode and Calibration |
+| 4 | Li-Po Battery | 1 | Powers the controller |
+| 5 | Power Switch | 1 | Turns the controller ON/OFF |
+| 6 | TP4056 Charging Module | 1 | Charges the Li-Po battery |
+| 7 | LED Indicator | 2 | Shows power/status or charging state |
+| 8 | Resistors | 4 | Current limiting and signal conditioning |
+| 9 | JST Connector | 1 pair | Connects the battery safely |
+| 10 | Connecting Wires | 1 set | Electrical connections between components |
+| 11 | M3 Screws | 8 | Secures the controller enclosure |
+| 12 | 3D-Printed Controller Enclosure | 1 set | Houses and protects all controller components |
