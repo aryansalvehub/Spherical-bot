@@ -19,3 +19,5 @@ Journals #2 by @aryansalvehub
 time - 19 min 
 
 After making the controller the main part was the bot, so i made small parts required inside the bot like i made tyre which would perfectly fit in bot leaving no gap space for error while driving the bot so what i did was make ouuter part and the added supports
+<img width="1109" height="626" alt="tyre" src="https://github.com/user-attachments/assets/22c96890-dc52-4f81-9a6e-97c56716dab2" />
+
