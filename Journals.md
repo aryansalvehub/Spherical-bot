@@ -21,3 +21,13 @@ time - 19 min
 After making the controller the main part was the bot, so i made small parts required inside the bot like i made tyre which would perfectly fit in bot leaving no gap space for error while driving the bot so what i did was make ouuter part and the added supports
 <img width="1109" height="626" alt="tyre" src="https://github.com/user-attachments/assets/22c96890-dc52-4f81-9a6e-97c56716dab2" />
 
+
+Journal #3 by @aryansalvehub
+
+Time - 3hrs 07min
+
+I worked on Theta Shift and spent time exploring different ideas that could help with the project. I researched various concepts through YouTube videos and different websites to understand how similar projects are designed and how they could be improved.
+Along with the technical research, I also worked on the creative side of the project by making some artwork. I created two drawings based on themes of adventure, exploration, nature, and the sea. These artworks helped me experiment with composition, shading, and creating a visual theme for the project.
+The research gave me a better understanding of how to approach the project, while the artwork allowed me to explore the creative side of Theta Shift. Overall, this session was a combination of research, experimentation, and creativity, and it helped me develop ideas that I can use in the next stages of the project.
+<img width="1200" height="1600" alt="190633636142fa4b6979e130cc6de348" src="https://github.com/user-attachments/assets/bcd7d277-f25f-46ca-8929-cbf6001ac791" />
+
