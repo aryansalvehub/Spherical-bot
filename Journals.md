@@ -11,3 +11,11 @@ hence to start with making the customize case for the controller hence which wou
 minimalist design.
 And the top consist of the holes for joystick and the space of the screen/indicator, with 3 buttons and some cool design with some cool patterns with the name of bot engraved in the middle
 and the space of screww is not provided as its made to directly get attached to it
+<img width="1000" height="499" alt="controller" src="https://github.com/user-attachments/assets/f6828355-667f-449c-8f4e-5a76f494d64a" />
+
+
+Journals #2 by @aryansalvehub
+
+time - 19 min 
+
+After making the controller the main part was the bot, so i made small parts required inside the bot like i made tyre which would perfectly fit in bot leaving no gap space for error while driving the bot so what i did was make ouuter part and the added supports
